@@ -7,6 +7,9 @@ The project includes image preprocessing, advanced image processing, and text ex
 </ul><ul>
 <li>OCR with Python solves the problem of converting printed or handwritten text in images into machine-readable text.</li>
 <h1>Screenshots</h1>
+  <img width="1180" alt="Screenshot 2024-06-19 at 4 57 49 PM" src="https://github.com/ReprisalGod/ocr_python_main/assets/97118312/102b889e-214a-4f30-aff0-f5e66c5df951">
+ <img width="1222" alt="Screenshot 2024-06-19 at 4 58 38 PM" src="https://github.com/ReprisalGod/ocr_python_main/assets/97118312/044aa8dd-0801-4d4c-b7e9-46ab56642ba9">
+
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>Python</li>
