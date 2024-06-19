@@ -7,6 +7,6 @@ Workflow Overview
 
 The OCR process in this project can be broken down into three main steps:
 
-Image Preprocessing with PIL
-Advanced Image Processing with OpenCV
+Image Preprocessing with PIL --->
+Advanced Image Processing with OpenCV --->
 Text Extraction with TesseractPY
