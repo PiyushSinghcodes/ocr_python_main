@@ -10,11 +10,3 @@ The OCR process in this project can be broken down into three main steps:
 Image Preprocessing with PIL
 Advanced Image Processing with OpenCV
 Text Extraction with TesseractPY
-1. Image Preprocessing with PIL
-Pillow (PIL) is a popular Python Imaging Library that adds image processing capabilities to your Python interpreter. It provides extensive file format support, an efficient internal representation, and powerful image processing capabilities.
-
-Loading the Image: The first step is to load the image into the program.
-Resizing and Cropping: Resize or crop the image to focus on the area of interest.
-Converting Image Modes: Convert the image to different modes (e.g., grayscale) if necessary.
-Saving and Displaying the Image: Save and display the preprocessed image for verification.
-
