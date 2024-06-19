@@ -7,7 +7,7 @@ The project includes image preprocessing, advanced image processing, and text ex
 </ul><ul>
 <li>OCR with Python solves the problem of converting printed or handwritten text in images into machine-readable text.</li>
 <h1>Screenshots</h1>
-/Users/piyushsingh/Desktop/Screenshot 2024-06-19 at 4.57.49 PM.png
+Screenshot 2024-06-19 at 4.57.49 PM.png
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>Python</li>
